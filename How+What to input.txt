@@ -1,19 +1,18 @@
 PROJECT DETAIL:
 
-Sir, you'll input the attributes of the properties which will be existing in 4 areas of DUBAI, since we're are predicting the prices of those properties which
-belong from those areas... 
-The areas are:
+You'll input the attributes of the properties which will be existing in 4 areas of DUBAI, since we're are predicting the prices of those properties which
+belong from the given areas below:
 1. Jumeirah (Jumeirah)
 2. Green (Greens)
 3. DIFC (DIFC)
 4. Dubai (Downtown)
 
 Our project is also giving its accuracy level with the prediction, if the accuracy level is below 80 %, then the user can try again till the maximum accuracy.
-Theme of Neural Network for prediction is implemented.
+*Theme* of Deep Neural Networks for prediction is implemented.
 
 
 INPUT(DETAILS):
-NOTE: Sir, you can enter any of the desired property from the file as well, but since it contain more than 900+ properties,
+NOTE: you can enter any of the desired property from the file as well, but since it contain more than 900+ properties,
 therefore, we've given you some properties as test cases.
 
 Sequence-wise Input data:
